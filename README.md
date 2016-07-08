@@ -1,0 +1,2 @@
+# Restaurant-Booking-Website-PHP
+this Website is entirely donen in PHP.  Tools needed to run this projects are: XAMPP server PHPmyAdmin  INITIALIZATION:  The code directory is named 'rest', put the directry to xampp server, then from the phpmyadmin database import the rest.sql file from the databaase folder in the code directory. run Xampp localhost server the index.php file will be loaded automatically.
